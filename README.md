@@ -11,4 +11,6 @@ Furthermore, the smart sprinkler incorporates a dedicated mobile application " S
 
 AUTHORS
 
+https://github.com/AlanKV
+
 https://github.com/Sandrarv2002
