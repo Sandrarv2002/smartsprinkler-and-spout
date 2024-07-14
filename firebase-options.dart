@@ -49,8 +49,8 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-      apiKey: 'AIzaSyA-cFpfKt-urFzuGYDJi67Kq7zKKoq0Qt0',
-      authDomain: 'smart-sprinkler-eb66c.firebaseapp.com',
+      apiKey: '************************************',
+      authDomain: '********************************',
       databaseURL:
           'https://smart-sprinkler-eb66c-default-rtdb.asia-southeast1.firebasedatabase.app',
       projectId: 'smart-sprinkler-eb66c',
@@ -60,8 +60,8 @@ class DefaultFirebaseOptions {
       measurementId: 'G-ENVXGLBNX2');
 
   static const FirebaseOptions android = FirebaseOptions(
-      apiKey: 'AIzaSyAtBEh0mUqo3yzyfA5BaGsk9I1xnOVIxeE',
-      authDomain: 'smart-sprinkler-eb66c.firebaseapp.com',
+      apiKey: '*************************************',
+      authDomain: 's*******************************',
       databaseURL:
           'https://smart-sprinkler-eb66c-default-rtdb.asia-southeast1.firebasedatabase.app',
       appId: '1:404202523795:android:ce7073af0bdfafb90f9166',
