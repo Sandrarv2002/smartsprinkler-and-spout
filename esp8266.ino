@@ -15,7 +15,6 @@
 #include"qrcode.h"
 
 ESP8266WebServer  server(80);
-
 Adafruit_SSD1306 display(128,64,&Wire,-1);
 
 #define DATABASE_URL "smart-sprinkler-eb66c-default-rtdb.asia-southeast1.firebasedatabase.app"
