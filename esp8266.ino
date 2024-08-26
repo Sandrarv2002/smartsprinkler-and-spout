@@ -106,7 +106,6 @@ void setup() {
       resetting();
     }
   }
-
   Serial.println("Wifi Connected..");   
   Serial.println(WiFi.localIP());
      display.clearDisplay();
